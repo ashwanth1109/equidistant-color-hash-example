@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/equidistant-color-hash/static/css/main.34de6062.chunk.css",
-    "main.js": "/equidistant-color-hash/static/js/main.7156c106.chunk.js",
-    "main.js.map": "/equidistant-color-hash/static/js/main.7156c106.chunk.js.map",
-    "runtime-main.js": "/equidistant-color-hash/static/js/runtime-main.088d953d.js",
-    "runtime-main.js.map": "/equidistant-color-hash/static/js/runtime-main.088d953d.js.map",
-    "static/js/2.4eb24530.chunk.js": "/equidistant-color-hash/static/js/2.4eb24530.chunk.js",
-    "static/js/2.4eb24530.chunk.js.map": "/equidistant-color-hash/static/js/2.4eb24530.chunk.js.map",
-    "index.html": "/equidistant-color-hash/index.html",
-    "precache-manifest.b9d1d213b73ae172d0e7167205ff5a68.js": "/equidistant-color-hash/precache-manifest.b9d1d213b73ae172d0e7167205ff5a68.js",
-    "service-worker.js": "/equidistant-color-hash/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/equidistant-color-hash/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/equidistant-color-hash-example/static/css/main.34de6062.chunk.css",
+    "main.js": "/equidistant-color-hash-example/static/js/main.f2035493.chunk.js",
+    "main.js.map": "/equidistant-color-hash-example/static/js/main.f2035493.chunk.js.map",
+    "runtime-main.js": "/equidistant-color-hash-example/static/js/runtime-main.f9b6c5c6.js",
+    "runtime-main.js.map": "/equidistant-color-hash-example/static/js/runtime-main.f9b6c5c6.js.map",
+    "static/js/2.4eb24530.chunk.js": "/equidistant-color-hash-example/static/js/2.4eb24530.chunk.js",
+    "static/js/2.4eb24530.chunk.js.map": "/equidistant-color-hash-example/static/js/2.4eb24530.chunk.js.map",
+    "index.html": "/equidistant-color-hash-example/index.html",
+    "precache-manifest.831cb7dd6f8fee7e43f90b01c1f533c8.js": "/equidistant-color-hash-example/precache-manifest.831cb7dd6f8fee7e43f90b01c1f533c8.js",
+    "service-worker.js": "/equidistant-color-hash-example/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/equidistant-color-hash-example/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.088d953d.js",
+    "static/js/runtime-main.f9b6c5c6.js",
     "static/js/2.4eb24530.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.7156c106.chunk.js"
+    "static/js/main.f2035493.chunk.js"
   ]
 }
