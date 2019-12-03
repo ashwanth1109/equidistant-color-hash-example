@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/equidistant-color-hash-example/static/css/main.34de6062.chunk.css",
+    "main.css": "/equidistant-color-hash-example/static/css/main.349d6482.chunk.css",
     "main.js": "/equidistant-color-hash-example/static/js/main.f2035493.chunk.js",
     "main.js.map": "/equidistant-color-hash-example/static/js/main.f2035493.chunk.js.map",
     "runtime-main.js": "/equidistant-color-hash-example/static/js/runtime-main.f9b6c5c6.js",
@@ -8,14 +8,14 @@
     "static/js/2.4eb24530.chunk.js": "/equidistant-color-hash-example/static/js/2.4eb24530.chunk.js",
     "static/js/2.4eb24530.chunk.js.map": "/equidistant-color-hash-example/static/js/2.4eb24530.chunk.js.map",
     "index.html": "/equidistant-color-hash-example/index.html",
-    "precache-manifest.831cb7dd6f8fee7e43f90b01c1f533c8.js": "/equidistant-color-hash-example/precache-manifest.831cb7dd6f8fee7e43f90b01c1f533c8.js",
+    "precache-manifest.badd3473bf9dc353c71086e08cb4e706.js": "/equidistant-color-hash-example/precache-manifest.badd3473bf9dc353c71086e08cb4e706.js",
     "service-worker.js": "/equidistant-color-hash-example/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/equidistant-color-hash-example/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.349d6482.chunk.css.map": "/equidistant-color-hash-example/static/css/main.349d6482.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f9b6c5c6.js",
     "static/js/2.4eb24530.chunk.js",
-    "static/css/main.34de6062.chunk.css",
+    "static/css/main.349d6482.chunk.css",
     "static/js/main.f2035493.chunk.js"
   ]
 }

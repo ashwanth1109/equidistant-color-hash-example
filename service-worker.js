@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/equidistant-color-hash-example/precache-manifest.831cb7dd6f8fee7e43f90b01c1f533c8.js"
+  "/equidistant-color-hash-example/precache-manifest.badd3473bf9dc353c71086e08cb4e706.js"
 );
 
 self.addEventListener('message', (event) => {
