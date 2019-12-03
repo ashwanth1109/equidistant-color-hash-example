@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ashwanth1109.github.io/equidistant-color-hash",
+  "homepage": "http://ashwanth1109.github.io/equidistant-color-hash-example",
   "dependencies": {
     "equidistant-color-hash": "^0.1.0",
     "react": "^16.12.0",
